@@ -1,0 +1,23 @@
+{
+  "site_logo": "日韩视频",
+  "movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_count": 10,
+  "category_distribution": {
+    "日韩剧集": 200,
+    "高清电影": 200,
+    "悬疑惊悚": 200,
+    "动作犯罪": 200,
+    "爱情喜剧": 200,
+    "科幻奇幻": 200,
+    "历史战争": 200,
+    "动画动漫": 200,
+    "都市剧情": 200,
+    "综艺纪录": 200
+  },
+  "m3u8_source_count": 20,
+  "html_page_count": 2014,
+  "baidu_script_pages": 2014,
+  "jpg_files_in_zip": 0,
+  "generated_at": "2026-06-02"
+}
